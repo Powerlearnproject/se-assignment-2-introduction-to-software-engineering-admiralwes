@@ -1,3 +1,79 @@
 please find my response below
 
-1.
+Q.1 DEFINE SOFTWARE ENGINEERING
+
+it is a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software. It involves the application of engineering principles to software creation, ensuring that the software is reliable, efficient, maintainable, and scalable. 
+
+Q.2.DIFFERENCE FROM TRADITIONAL PROGRAMMING
+
+-  Traditional programming focuses on writing code to solve specific problems. Software engineering, however, involves a broader scope, including requirements analysis, system design, implementation, testing, deployment, and maintenance.
+-  Software engineering follows structured methodologies and processes (like SDLC) to ensure quality and manage complexity. Traditional programming might not adhere to such rigorous practices.
+- **Collaboration**: Software engineering often involves large teams and necessitates collaboration and communication. Traditional programming can be a solo activity with less need for coordination.
+- **Documentation**: Software engineering emphasizes comprehensive documentation for future maintenance and scalability, whereas traditional programming might not focus as heavily on documentation.
+
+Q.3 SOFTWARE DEVELOPMENT LIFE CYCLE (SDLC)
+
+it is a framework defining tasks performed at each step in the software development process. It includes several phases:
+
+1. Requirement Analysis
+ Gathering and analyzing the requirements from stakeholders to understand what the software should achieve.
+   - **Output**: Requirement Specification Document.
+
+2. System Design
+Designing the architecture of the software, defining components, modules, interfaces, and data flow.
+   - **Output**: System Design Document.
+
+3. Implementation (Coding)
+   Actual coding of the software based on the design documents. This is where developers write the code.
+   output other name Source Code.
+
+4. Testing
+- Verifying that the software works as intended, identifying and fixing bugs.
+- Test Reports, Bug Fixes.
+
+5. Deployment
+ - Releasing the software to the production environment where it will be used by the end-users.
+ -Outputs Deployed System.
+
+6. Maintenance
+- Ongoing support and updates to the software post-deployment to fix issues and add new features.
+ -Outputs Updated System, Maintenance Reports.
+
+Q.4 AGILE VS. WATERFALL MODELS
+
+      (A)Agile Model
+APPROACH- Iterative and incremental, with continuous feedback and collaboration.
+
+FLEXIBILITY- High flexibility to change requirements and scope.
+
+PHASES- Consists of repeated cycles (sprints), where each sprint includes planning, development, testing, and review.
+
+TEAM COLLABORATION- Emphasizes strong communication and collaboration within teams and with stakeholders.
+
+DOCUMENTATION-Lighter documentation, focusing on working software and customer collaboration.
+
+USE CASE-Preferred in dynamic, fast-paced projects where requirements may change frequently.
+
+         (B)Waterfall Model
+APPROACH-Linear and sequential, with a clear structure and phases.
+FLEXIBILITY-Low flexibility, as changes are difficult to implement once a phase is completed.
+PHASES- Distinct phases like requirement analysis, design, IMPLEMENTATION-testing, deployment, and maintenance, with each phase needing to be completed before moving to the next.
+
+TEAM COLLABORATION- Less emphasis on ongoing collaboration after the initial requirements phase.
+
+DOCUMENTATION- Heavy documentation at each phase to ensure clarity and precision.
+
+USE CASE- Preferred in projects with well-defined requirements and low uncertainty, such as government or large enterprise projects.
+
+Q.5 REQUIREMENTS ENGINEERING
+
+ is the process of defining, documenting, and maintaining requirements in the engineering design process. It encompasses several activities:
+*Elicitation-Gathering requirements from stakeholders through interviews, surveys, observation, and other techniques.
+
+*Analysis-Understanding and modeling the requirements to ensure they are clear, complete, and consistent.
+
+*Specification- Documenting the requirements in a formal, precise, and detailed manner.
+
+Validation- Ensuring the requirements accurately reflect the needs and expectations of the stakeholders.
+
+*Management- Handling changes to requirements as they evolve during the project lifecycle, maintaining traceability, and ensuring that the final product meets the defined requirements.
