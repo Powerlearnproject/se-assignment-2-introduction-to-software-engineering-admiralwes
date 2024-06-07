@@ -77,3 +77,71 @@ Q.5 REQUIREMENTS ENGINEERING
 Validation- Ensuring the requirements accurately reflect the needs and expectations of the stakeholders.
 
 *Management- Handling changes to requirements as they evolve during the project lifecycle, maintaining traceability, and ensuring that the final product meets the defined requirements.
+
+Q6
+
+practice of dividing a software system into distinct, self-contained units or modules. Each module is designed to perform a specific function or a set of related functions and can be developed, tested, and maintained independently.
+benefits include 
+-Maintainability: Modularity enhances maintainability by allowing developers to focus on individual modules when making updates or fixing bugs, without impacting the entire system
+-Scalability: It improves scalability since new features can be added as new modules without altering existing code
+-.Reusability: Modules can be reused across different parts of the application or even in different projects.
+
+
+Q.7 LEVELS OF TESTING
+-UNIT TESTING: Tests individual units or components of a software. It ensures that each unit performs as expected. Tools like JUnit or pytest are commonly used
+-.INTEGRATION TESTING: Tests the interaction between integrated units or modules. It helps identify interface defects between modules.
+-SYSTEM TESTING: Tests the complete integrated system to ensure it meets the specified requirements. It is a high-level test that validates the system as a whole.
+ACCEPTANCE TESTING: Performed by the end users or clients to verify that the system meets their expectations and requirements. This includes alpha and beta testing phases.
+: Testing is important and crucial in software development to ensure the software is reliable, functional, and free of bugs. It helps in identifying and fixing defects early, improving software quality, and ensuring customer satisfaction.
+
+Q8  
+Version control systems (VCS) are tools that help manage changes to source code over time. They allow multiple developers to work on a project simultaneously without overwriting each other’s work
+
+-Collaboration: Facilitates collaboration among developers, allowing them to work on different parts of a project concurrently.
+
+-History: Maintains a history of changes, enabling developers to revert to previous versions if needed.
+ -branching and Merging: Supports branching for experimental development and merging changes back into the main codebase when ready.
+-Backup: Acts as a backup system by storing the entire history of the project.
+
+Q 8
+A software project manager oversees the planning, execution, and delivery of software projects. They ensure that projects are completed on time, within budget, and to the required quality standards.
+Key Responsibilities
+-planning: Defining project scope, objectives, timelines, and resource allocation
+-.Team Management: Leading and coordinating the project team, assigning tasks, and managing workload.
+-Risk Management: Identifying and mitigating risks that could impact project success.
+Communication-: Ensuring clear and continuous communication among stakeholders.
+challenges 
+Resource Allocation: Ensuring the right resources are available at the right time
+.Time Management: Meeting deadlines and managing time constraints
+.Stakeholder Expectations: Balancing the needs and expectations of various stakeholders.
+
+Q 9.
+Software maintenance involves modifying and updating software after its initial deployment to correct faults, improve performance, or adapt it to a changed environment.
+TYPES
+-Corrective Maintenance..Fixing bugs and defects
+
+-.Adaptive Maintenance ..Modifying software to work in a new or changed environment.
+
+-Perfective Maintenance.. Enhancing software to improve performance or maintainability
+
+-.Preventive Maintenance: Updating software to prevent future issues.
+
+Importance-Maintenance is essential because it ensures the software continues to function correctly and efficiently over time, adapting to new requirements and environments while addressing any defects that arise.
+
+Q 10 
+Ethical Considerations in Software Engineering
+Issues:
+1 Privacy: Ensuring user data is protected and not misused
+
+2..Security: Implementing robust security measures to prevent data breaches and cyber attacks.
+
+3.Intellectual Property: Respecting copyrights and licenses of software and components.
+
+4.ransparency: Being transparent about software capabilities and limitations.Ensuring Adherence
+
+5.Code of Conduct: Following a professional code of conduct, such as the ACM Code of Ethics.
+
+Ethical Guidelines:
+ -Implementing company-wide ethical guidelines and training.
+-Review and Audit: Regularly reviewing and auditing code and practices for compliance with ethical standards.
+-User Consent: Obtaining explicit user consent for data collection and use.
